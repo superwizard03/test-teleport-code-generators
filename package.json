@@ -1,0 +1,27 @@
+{
+  "name": "teleporthq-react-and-vue-test",
+  "version": "1.0.0",
+  "description": null,
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@teleporthq/teleport-code-generators": "^0.6.0",
+    "prismjs": "1.15.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/prismjs": "1.9.1",
+    "buffer": "^6.0.3",
+    "parcel": "^2.7.0"
+  },
+  "keywords": [
+    "teleporthq",
+    "vue",
+    "example",
+    "code-generation",
+    "react"
+  ]
+}
