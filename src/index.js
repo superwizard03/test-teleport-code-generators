@@ -6,8 +6,8 @@ import './prism.css'
 import './styles.css'
 
 // sammples - pick one!
-import componentUIDL from './samples/component'
-// import componentUIDL from './samples/componentCardList'
+// import componentUIDL from './samples/component'
+import componentUIDL from './samples/tabSelector'
 
 // instantiate a react generator
 const reactGenerator = createReactComponentGenerator({
